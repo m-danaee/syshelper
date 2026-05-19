@@ -111,7 +111,7 @@ sudo apt-get install curl wget bc tar iptables-persistent
 - University of Erlangen — http://ftp.fau.de/ubuntu/
 - Scaleway — http://mirrors.scaleway.com/ubuntu/
 - NLUUG — http://ftp.nluug.nl/os/Linux/distr/ubuntu/
-- University of Kent — http://ftp.calyx.nl/ubuntu/
+- University of Groningen — http://ftp.calyx.nl/ubuntu/
 - Verinomi — http://mirror.verinomi.com/ubuntu/
 - Linux Users Group Turkey — http://ftp.linux.org.tr/ubuntu/
 - Maeen Network — http://mirror.maeen.sa/ubuntu/

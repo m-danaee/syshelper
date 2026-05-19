@@ -521,7 +521,7 @@ test_mirrors() {
         "University of Erlangen"
         "Scaleway"
         "NLUUG"
-        "University of Kent"
+        "University of Groningen"
         "Verinomi"
         "Linux Users Group Turkey"
         "Maeen Network"
