@@ -13,7 +13,7 @@
 - 📊 **System Overview**: Real-time CPU, RAM, uptime, and load monitoring
 - 🌐 **Network Information**: IP detection, DNS configuration, and ISP details
 - 🔧 **Network Management**: IPv6 toggle and ping response control
-- 🚀 **Mirror Speed Test**: Automatic ranking of 18+ Iranian Ubuntu mirrors
+- 🚀 **Mirror Speed Test**: Automatic ranking of 29+ Ubuntu mirrors
 - ⚡ **Auto Configuration**: One-click mirror switching for optimal package downloads
 - 📦 **3X-UI Panel**: Multi-version installation (v2.6.0 & v2.6.2)
 - 🔐 **ACME.sh Integration**: SSL certificate manager installation
@@ -66,7 +66,7 @@ sudo apt-get install curl wget bc tar iptables-persistent
    - `6` - Exit
 
 ### Mirror Testing Process
-- Tests 18+ Iranian Ubuntu mirrors
+- Tests 29+ Ubuntu mirrors
 - Parallel speed testing for faster results
 - Checks mirror freshness and release dates
 - Ranks by performance and reliability
@@ -106,25 +106,36 @@ The tool provides a comprehensive overview including:
 
 ## 🌍 Mirror List
 
-Enhanced Iranian mirror database (18+ mirrors):
-- archive.ubuntu.mirrors.zagrio.net
-- mirror.iranserver.com
-- ubuntu-mirror.kimiahost.com
-- ubuntu.avinahost.com
-- ubuntu.mobinhost.com
-- ubuntu.pishgaman.net
-- ir.ubuntu.sindad.cloud
-- mirror.aminidc.com
-- mirror.arvancloud.ir
-- mirrors.pardisco.co
-- archive.ubuntu.petiak.ir
-- linuxmirrors.ir
-- ubuntu.pars.host
-- ubuntu.parsvds.com
-- mirror.faraso.org
-- mirrors.ubuntu.dimit.cloud
-- repo.iut.ac.ir
-- ir.archive.ubuntu.com
+Expanded Ubuntu mirror database:
+- NetCologne — http://mirror.netcologne.de/ubuntu/
+- University of Erlangen — http://ftp.fau.de/ubuntu/
+- Scaleway — http://mirrors.scaleway.com/ubuntu/
+- NLUUG — http://ftp.nluug.nl/os/Linux/distr/ubuntu/
+- University of Groningen — http://ftp.calyx.nl/ubuntu/
+- Verinomi — http://mirror.verinomi.com/ubuntu/
+- Linux Users Group Turkey — http://ftp.linux.org.tr/ubuntu/
+- Maeen Network — http://mirror.maeen.sa/ubuntu/
+- UAE Archive — http://ae.archive.ubuntu.com/ubuntu/
+- Zagrio WebHosting — https://archive.ubuntu.mirrors.zagrio.net/ubuntu
+- Iranserver — https://mirror.iranserver.com/ubuntu
+- Shatel — https://mirror.shatel.ir/ubuntu
+- HostIran — https://mirror.hostiran.ir/ubuntu
+- KimiaHost — https://ubuntu-mirror.kimiahost.com/ubuntu
+- Avina Host — https://ubuntu.avinahost.com/ubuntu
+- Mobinhost — https://ubuntu.mobinhost.com/ubuntu
+- Pishgaman — https://ubuntu.pishgaman.net/ubuntu
+- Sindad LLC — https://ir.ubuntu.sindad.cloud/ubuntu
+- Amin IDC — http://mirror.aminidc.com/ubuntu
+- ArvanCloud — https://mirror.arvancloud.ir/ubuntu
+- Pardis Co. — https://mirrors.pardisco.co/ubuntu
+- Petiak — https://archive.ubuntu.petiak.ir/ubuntu
+- LinuxMirrors.ir — https://linuxmirrors.ir/ubuntu
+- Pars.host — https://ubuntu.pars.host
+- ParsvDS — https://ubuntu.parsvds.com/ubuntu
+- Faraso — http://mirror.faraso.org/ubuntu
+- Dimit Network — https://mirrors.ubuntu.dimit.cloud
+- IUT University — http://repo.iut.ac.ir/repo/Ubuntu
+- Official Iran Archive — https://ir.archive.ubuntu.com/ubuntu
 
 ## 🛡️ Security & Permissions
 
@@ -166,7 +177,7 @@ sudo apt-get install curl wget bc tar
 - **New**: Network management panel with IPv6/ping control
 - **New**: ACME.sh SSL certificate manager installation
 - **New**: Multi-version 3X-UI support (v2.6.0 & v2.6.2)
-- **Enhanced**: 18+ Iranian mirror database
+- **Enhanced**: Expanded Ubuntu mirror database
 - **Improved**: Parallel mirror testing for faster results
 - **Improved**: Smart archive extraction with nested support
 - **Improved**: ASCII art header and professional UI design

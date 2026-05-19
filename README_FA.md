@@ -13,7 +13,7 @@
 - 📊 **نمایش اطلاعات سیستم**: نظارت زنده CPU، RAM، آپ‌تایم و بار سیستم
 - 🌐 **اطلاعات شبکه**: شناسایی IP، تنظیمات DNS و جزئیات ISP
 - 🔧 **مدیریت شبکه**: کنترل IPv6 و پاسخ‌دهی به ping
-- 🚀 **تست سرعت میرور**: رتبه‌بندی خودکار ۱۸+ میرور اوبونتو ایران
+- 🚀 **تست سرعت میرور**: رتبه‌بندی خودکار ۲۹+ میرور اوبونتو
 - ⚡ **پیکربندی خودکار**: تغییر میرور با یک کلیک برای دانلود بهینه پکیج‌ها
 - 📦 **پنل 3X-UI**: نصب چند نسخه‌ای (v2.6.0 و v2.6.2)
 - 🔐 **یکپارچگی ACME.sh**: نصب مدیر گواهی SSL
@@ -66,7 +66,7 @@ sudo apt-get install curl wget bc tar iptables-persistent
    - `6` - خروج
 
 ### فرآیند تست میرور
-- بررسی ۱۸+ میرور اوبونتو ایرانی
+- بررسی ۲۹+ میرور اوبونتو
 - تست سرعت موازی برای نتایج سریع‌تر
 - بررسی تازگی میرور و تاریخ انتشار
 - رتبه‌بندی بر اساس عملکرد و قابلیت اطمینان
@@ -106,25 +106,36 @@ sudo apt-get install curl wget bc tar iptables-persistent
 
 ## 🌍 لیست میرورها
 
-پایگاه داده گسترده میرورهای ایرانی (۱۸+ میرور):
-- archive.ubuntu.mirrors.zagrio.net
-- mirror.iranserver.com
-- ubuntu-mirror.kimiahost.com
-- ubuntu.avinahost.com
-- ubuntu.mobinhost.com
-- ubuntu.pishgaman.net
-- ir.ubuntu.sindad.cloud
-- mirror.aminidc.com
-- mirror.arvancloud.ir
-- mirrors.pardisco.co
-- archive.ubuntu.petiak.ir
-- linuxmirrors.ir
-- ubuntu.pars.host
-- ubuntu.parsvds.com
-- mirror.faraso.org
-- mirrors.ubuntu.dimit.cloud
-- repo.iut.ac.ir
-- ir.archive.ubuntu.com
+پایگاه داده گسترده میرورهای اوبونتو:
+- NetCologne — http://mirror.netcologne.de/ubuntu/
+- University of Erlangen — http://ftp.fau.de/ubuntu/
+- Scaleway — http://mirrors.scaleway.com/ubuntu/
+- NLUUG — http://ftp.nluug.nl/os/Linux/distr/ubuntu/
+- University of Groningen — http://ftp.calyx.nl/ubuntu/
+- Verinomi — http://mirror.verinomi.com/ubuntu/
+- Linux Users Group Turkey — http://ftp.linux.org.tr/ubuntu/
+- Maeen Network — http://mirror.maeen.sa/ubuntu/
+- UAE Archive — http://ae.archive.ubuntu.com/ubuntu/
+- Zagrio WebHosting — https://archive.ubuntu.mirrors.zagrio.net/ubuntu
+- Iranserver — https://mirror.iranserver.com/ubuntu
+- Shatel — https://mirror.shatel.ir/ubuntu
+- HostIran — https://mirror.hostiran.ir/ubuntu
+- KimiaHost — https://ubuntu-mirror.kimiahost.com/ubuntu
+- Avina Host — https://ubuntu.avinahost.com/ubuntu
+- Mobinhost — https://ubuntu.mobinhost.com/ubuntu
+- Pishgaman — https://ubuntu.pishgaman.net/ubuntu
+- Sindad LLC — https://ir.ubuntu.sindad.cloud/ubuntu
+- Amin IDC — http://mirror.aminidc.com/ubuntu
+- ArvanCloud — https://mirror.arvancloud.ir/ubuntu
+- Pardis Co. — https://mirrors.pardisco.co/ubuntu
+- Petiak — https://archive.ubuntu.petiak.ir/ubuntu
+- LinuxMirrors.ir — https://linuxmirrors.ir/ubuntu
+- Pars.host — https://ubuntu.pars.host
+- ParsvDS — https://ubuntu.parsvds.com/ubuntu
+- Faraso — http://mirror.faraso.org/ubuntu
+- Dimit Network — https://mirrors.ubuntu.dimit.cloud
+- IUT University — http://repo.iut.ac.ir/repo/Ubuntu
+- Official Iran Archive — https://ir.archive.ubuntu.com/ubuntu
 
 ## 🛡️ امنیت و مجوزها
 
@@ -166,7 +177,7 @@ sudo apt-get install curl wget bc tar
 - **جدید**: پنل مدیریت شبکه با کنترل IPv6/ping
 - **جدید**: نصب مدیر گواهی SSL ACME.sh
 - **جدید**: پشتیبانی چند نسخه‌ای 3X-UI (v2.6.0 و v2.6.2)
-- **بهبود یافته**: پایگاه داده ۱۸+ میرور ایرانی
+- **بهبود یافته**: پایگاه داده گسترده میرورهای اوبونتو
 - **بهبود یافته**: تست میرور موازی برای نتایج سریع‌تر
 - **بهبود یافته**: استخراج هوشمند آرشیو با پشتیبانی تو در تو
 - **بهبود یافته**: هدر ASCII art و طراحی UI حرفه‌ای
