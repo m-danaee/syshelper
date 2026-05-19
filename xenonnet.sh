@@ -481,12 +481,23 @@ check_mirror_release() {
 }
 
 test_mirrors() {
-    echo -e "\n${W}IRANIAN UBUNTU MIRROR ANALYSIS${N}"
+    echo -e "\n${W}UBUNTU MIRROR ANALYSIS${N}"
     echo -e "+================================================================+"
     
     local mirrors=(
+        "http://mirror.netcologne.de/ubuntu"
+        "http://ftp.fau.de/ubuntu"
+        "http://mirrors.scaleway.com/ubuntu"
+        "http://ftp.nluug.nl/os/Linux/distr/ubuntu"
+        "http://ftp.calyx.nl/ubuntu"
+        "http://mirror.verinomi.com/ubuntu"
+        "http://ftp.linux.org.tr/ubuntu"
+        "http://mirror.maeen.sa/ubuntu"
+        "http://ae.archive.ubuntu.com/ubuntu"
         "https://archive.ubuntu.mirrors.zagrio.net/ubuntu"
         "https://mirror.iranserver.com/ubuntu"
+        "https://mirror.shatel.ir/ubuntu"
+        "https://mirror.hostiran.ir/ubuntu"
         "https://ubuntu-mirror.kimiahost.com/ubuntu"
         "https://ubuntu.avinahost.com/ubuntu"
         "https://ubuntu.mobinhost.com/ubuntu"
@@ -506,8 +517,19 @@ test_mirrors() {
     )
     
     local mirror_names=(
+        "NetCologne"
+        "University of Erlangen"
+        "Scaleway"
+        "NLUUG"
+        "University of Kent"
+        "Verinomi"
+        "Linux Users Group Turkey"
+        "Maeen Network"
+        "UAE Archive"
         "Zagrio WebHosting"
         "Iranserver"
+        "Shatel"
+        "HostIran"
         "KimiaHost" 
         "Avina Host"
         "Mobinhost"
